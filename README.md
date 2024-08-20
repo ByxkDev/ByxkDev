@@ -33,7 +33,7 @@ I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 
 - :zap: In my free time, I contribute to the frontend and backend for building all kinds of applications.
 
-- :mailbox:How to reach me: [![Discord Badge](https://img.shields.io/badge/-Discord-blue?style=flat&logo=discord&logoColor=white)]([https://discordapp.com/users/1053596119101349928])
+- :mailbox:How to reach me: [![Discord Badge](https://img.shields.io/badge/-Discord-blue?style=flat&logo=discord&logoColor=white)](https://discordapp.com/users/1053596119101349928])
 
 ---
 
