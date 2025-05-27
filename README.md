@@ -28,10 +28,7 @@
 
 ---
 
-### About Me:
-I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from The Netherlands.
-
-- :zap: In my free time, I contribute to the frontend and backend for building all kinds of applications.
+### How to reach me:
 
 - :mailbox:How to reach me: [![Discord Badge](https://img.shields.io/badge/-Discord-blue?style=flat&logo=discord&logoColor=white)](https://discordapp.com/users/1053596119101349928])
 
