@@ -57,10 +57,3 @@ Focused on building systems, not just code.
 
 ---
 
-### WHAT MATTERS
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=byxkdev&theme=github-compact" width="95%"/>
-
-</div>
