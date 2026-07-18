@@ -24,14 +24,6 @@
 
 ---
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=byxkdev&show_icons=true&theme=github_dark&hide_border=true" height="160"/>
-
-</div>
-
----
-
 ### ABOUT
 
 Focused on building systems, not just code.
